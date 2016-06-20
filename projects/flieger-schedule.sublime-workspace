@@ -139,39 +139,6 @@
 	},
 	"buffers":
 	[
-		{
-			"contents": "heringstorefront/web/webroot/WEB-INF/messages/base_pt.properties heringstorefront/web/webroot/WEB-INF/tags/desktop/comparableProduct/productPricePanel.tag heringstorefront/web/webroot/WEB-INF/tags/desktop/showcase/productsToShow.tag heringstorefront/web/webroot/WEB-INF/tags/desktop/showcaseproductdetail/colors.tag heringstorefront/web/webroot/WEB-INF/tags/desktop/showcaseproductdetail/image.tag heringstorefront/web/webroot/WEB-INF/tags/desktop/showcaseproductdetail/sizes.tag heringstorefront/web/webroot/WEB-INF/tags/desktop/showcaseproductdetail/stamps.tag heringstorefront/web/webroot/WEB-INF/tags/desktop/template/compressible/css.tag heringstorefront/web/webroot/_ui/desktop/common/js/flieger-modules/flieger-carrosels.js heringstorefront/web/webroot/_ui/desktop/common/js/flieger.js heringstorefront/web/webroot/_ui/desktop/common/js/hering.showcase.js heringstorefront/web/webroot/_ui/desktop/theme-outlet/assets/css/base.css heringstorefront/web/webroot/_ui/desktop/theme-outlet/assets/css/xtt-default-template.css heringstorefront/web/webroot/_ui/desktop/theme-outlet/assets/css/xtt-styles.css",
-			"settings":
-			{
-				"buffer_size": 1106,
-				"line_ending": "Unix",
-				"name": "heringstorefront/web/webroot/WEB-INF/messages/base"
-			}
-		},
-		{
-			"file": "/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/WEB-INF/tags/desktop/template/compressible/js.tag",
-			"settings":
-			{
-				"buffer_size": 38290,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/_ui/desktop/theme-outlet/assets/css/base.css",
-			"settings":
-			{
-				"buffer_size": 31340,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/WEB-INF/tags/desktop/showcaseproductdetail/stamps.tag",
-			"settings":
-			{
-				"buffer_size": 3737,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -213,25 +180,19 @@
 	},
 	"expanded_folders":
 	[
-		"/home/waghcwb/HYBRIS/hering/bin",
-		"/home/waghcwb/HYBRIS/hering/bin/custom",
-		"/home/waghcwb/HYBRIS/hering/bin/custom/hering",
-		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront",
-		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web",
-		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot",
-		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/_ui",
-		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/_ui/desktop",
-		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/_ui/desktop/theme-outlet",
-		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/_ui/desktop/theme-outlet/assets",
-		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/_ui/desktop/theme-outlet/assets/css"
+		"/home/waghcwb/server/flieger-software/flieger-schedule"
 	],
 	"file_history":
 	[
+		"/home/waghcwb/server/flieger-software/flieger-schedule/contributing.md",
+		"/home/waghcwb/server/flieger-software/flieger-schedule/composer.json",
+		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/WEB-INF/tags/desktop/showcaseproductdetail/stamps.tag",
+		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/_ui/desktop/theme-outlet/assets/css/base.css",
+		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/WEB-INF/tags/desktop/template/compressible/js.tag",
 		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/WEB-INF/tags/desktop/showcaseproductdetail/stamps.tag.mine",
 		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/WEB-INF/tags/desktop/showcaseproductdetail/stamps.tag.r22685",
 		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/WEB-INF/tags/desktop/showcaseproductdetail/stamps.tag.r22677",
 		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/_ui/desktop/theme-outlet/assets/js/pages/giftCard.js",
-		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/_ui/desktop/theme-outlet/assets/css/base.css",
 		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/WEB-INF/tags/desktop/showcaseproductdetail/image.tag",
 		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/_ui/desktop/common/js/flieger-modules/flieger-products.js",
 		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/_ui/desktop/common/js/flieger.js",
@@ -239,10 +200,8 @@
 		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/_ui/desktop/theme-dzarm/assets/js/hering.product.js",
 		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/WEB-INF/tags/desktop/showcase/productsToShow.tag",
 		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/_ui/desktop/theme-outlet/assets/js/pages/hering.category.js",
-		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/WEB-INF/tags/desktop/template/compressible/js.tag",
 		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/_ui/desktop/theme-outlet/assets/css/xtt-styles.css",
 		"/home/waghcwb/HYBRIS/styleguide.ecommerce/_sass/xtt-styles.scss",
-		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/WEB-INF/tags/desktop/showcaseproductdetail/stamps.tag",
 		"/home/waghcwb/HYBRIS/hering/bin/ext-template/yacceleratorstorefront/web/webroot/WEB-INF/tags/desktop/template/compressible/js.tag",
 		"/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/_ui/desktop/common/js/hering.showcase.js",
 		"/home/waghcwb/HYBRIS/styleguide.ecommerce/_sass/pages/_search.scss",
@@ -352,9 +311,7 @@
 		"/home/waghcwb/server/flieger-software/server-tools/bower_components/jquery/src/ajax.js",
 		"/home/waghcwb/HYBRIS/hering/heringstorefront/web/webroot/WEB-INF/views/desktop/pages/account/accountLoockCertoPerfis.jsp",
 		"/home/waghcwb/HYBRIS/hering/heringcheckoutaddon/acceleratoraddon/web/webroot/WEB-INF/tags/desktop/checkout/single/addressShippingOneClick.tag",
-		"/home/waghcwb/HYBRIS/hering/heringcheckoutaddon/acceleratoraddon/web/webroot/WEB-INF/tags/desktop/checkout/single/addressFormSelector.tag",
-		"/home/waghcwb/HYBRIS/hering/heringstorefront/web/webroot/WEB-INF/views/desktop/pages/account/accountAddressBookPage.jsp",
-		"/home/waghcwb/HYBRIS/hering/heringstorefront/web/webroot/WEB-INF/views/desktop/pages/account/accountOrderHistoryPage.jsp"
+		"/home/waghcwb/HYBRIS/hering/heringcheckoutaddon/acceleratoraddon/web/webroot/WEB-INF/tags/desktop/checkout/single/addressFormSelector.tag"
 	],
 	"find":
 	{
@@ -565,125 +522,8 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1106,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1106,
-								1106
-							]
-						],
-						"settings":
-						{
-							"auto_name": "heringstorefront/web/webroot/WEB-INF/messages/base",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/WEB-INF/tags/desktop/template/compressible/js.tag",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 38290,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								38222,
-								38222
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Java/Java Server Pages (JSP).sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 14420.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/_ui/desktop/theme-outlet/assets/css/base.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 31340,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								28941,
-								28941
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 29787.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/home/waghcwb/HYBRIS/hering/bin/custom/hering/heringstorefront/web/webroot/WEB-INF/tags/desktop/showcaseproductdetail/stamps.tag",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3737,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1890,
-								1890
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Java/Java Server Pages (JSP).sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 513.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -723,7 +563,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "hering.sublime-project",
+	"project": "flieger-schedule.sublime-project",
 	"replace":
 	{
 		"height": 52.0

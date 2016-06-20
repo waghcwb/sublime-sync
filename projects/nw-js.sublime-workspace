@@ -108,22 +108,6 @@
 	"buffers":
 	[
 		{
-			"file": "/home/waghcwb/server/nw.js/_includes/components/features.html",
-			"settings":
-			{
-				"buffer_size": 1552,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/waghcwb/server/nw.js/_data/features.yml",
-			"settings":
-			{
-				"buffer_size": 128,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "/home/waghcwb/server/nw.js/_assets/css/general/_nw-custom-bootstrap.scss",
 			"settings":
 			{
@@ -144,6 +128,38 @@
 			"settings":
 			{
 				"buffer_size": 142,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/waghcwb/server/nw.js/blog.html",
+			"settings":
+			{
+				"buffer_size": 95,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/waghcwb/server/nw.js/_includes/components/welcome.html",
+			"settings":
+			{
+				"buffer_size": 869,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/waghcwb/server/nw.js/_includes/components/welcome-item.html",
+			"settings":
+			{
+				"buffer_size": 326,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/waghcwb/server/nw.js/_config.yml",
+			"settings":
+			{
+				"buffer_size": 679,
 				"line_ending": "Unix"
 			}
 		}
@@ -189,27 +205,27 @@
 	"expanded_folders":
 	[
 		"/home/waghcwb/server/nw.js",
-		"/home/waghcwb/server/nw.js/_assets/css",
-		"/home/waghcwb/server/nw.js/_assets/css/components",
-		"/home/waghcwb/server/nw.js/_assets/css/general",
-		"/home/waghcwb/server/nw.js/_includes/components"
+		"/home/waghcwb/server/nw.js/_deploy"
 	],
 	"file_history":
 	[
-		"/home/waghcwb/server/nw.js/_includes/head.html",
+		"/home/waghcwb/server/nw.js/_assets/vendor/jquery/dist/jquery.min.js",
 		"/home/waghcwb/server/nw.js/_includes/components/logo.html",
+		"/home/waghcwb/server/nw.js/_includes/header.html",
+		"/home/waghcwb/server/nw.js/index.html",
+		"/home/waghcwb/server/nw.js/_data/features.yml",
+		"/home/waghcwb/server/nw.js/_includes/components/features.html",
+		"/home/waghcwb/server/nw.js/_includes/head.html",
 		"/home/waghcwb/server/nw.js/_includes/components/download.html",
 		"/home/waghcwb/server/nw.js/_assets/css/nw-custom.scss",
 		"/home/waghcwb/server/nw.js/_assets/css/general/_nw-variables.scss",
 		"/home/waghcwb/server/nw.js/_assets/css/general/_nw-custom-bootstrap.scss",
 		"/home/waghcwb/server/nw.js/_assets/css/components/_nw-view-github.scss",
-		"/home/waghcwb/server/nw.js/index.html",
 		"/home/waghcwb/server/nw.js/_includes/components/view-github.html",
 		"/home/waghcwb/server/nw.js/_assets/css/general/_global.scss",
 		"/home/waghcwb/server/nw.js/_includes/components/separator.html",
 		"/home/waghcwb/server/nw.js/_includes/components/separator-rounded.html",
 		"/home/waghcwb/server/nw.js/_assets/css/components/_nw-download.scss",
-		"/home/waghcwb/server/nw.js/_includes/components/features.html",
 		"/home/waghcwb/server/nw.js/_assets/css/components/_nw-welcome.scss",
 		"/home/waghcwb/server/nw.js/_includes/components/welcome.html",
 		"/home/waghcwb/server/AnimatedHeaderBackgrounds/AnimatedHeaderBackgrounds/js/demo-1.js",
@@ -238,7 +254,6 @@
 		"/home/waghcwb/server/nw.js/_includes/components/features-item.html",
 		"/home/waghcwb/server/nw.js/_includes/footer.html",
 		"/home/waghcwb/server/nw.js/_includes/components/welcome-item.html",
-		"/home/waghcwb/server/nw.js/_includes/header.html",
 		"/home/waghcwb/server/tests/nw.js/src/css/custom.less",
 		"/home/waghcwb/server/tests/nw.js/src/css/mixins.less",
 		"/home/waghcwb/server/nw.js/_assets/css/general/_nw-mixins.scss",
@@ -315,6 +330,8 @@
 		"height": 158.0,
 		"where_history":
 		[
+			"/home/waghcwb/server/nw.js/,-vendor/*",
+			"/home/waghcwb/server/nw.js/",
 			"/home/waghcwb/server/nw.js/_assets",
 			"/home/waghcwb/server/nw.js/_assets/css",
 			"/home/waghcwb/server/nw.js/bower_components",
@@ -326,6 +343,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"prepend:",
 			"icon",
 			"$nw-button-gutter",
 			"1em",
@@ -442,69 +460,11 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 6,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/home/waghcwb/server/nw.js/_includes/components/features.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1552,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								797,
-								797
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Liquid/Syntaxes/HTML Liquid.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/home/waghcwb/server/nw.js/_data/features.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 128,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								127,
-								127
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
-							"tab_size": 2
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "/home/waghcwb/server/nw.js/_assets/css/general/_nw-custom-bootstrap.scss",
 					"semi_transient": false,
 					"settings":
@@ -516,36 +476,8 @@
 						"selection":
 						[
 							[
-								132,
-								132
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/home/waghcwb/server/nw.js/_assets/css/components/_nw-welcome.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1221,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								266,
-								266
+								219,
+								219
 							]
 						],
 						"settings":
@@ -557,11 +489,40 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 1,
+					"file": "/home/waghcwb/server/nw.js/_assets/css/components/_nw-welcome.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 969.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "/home/waghcwb/server/nw.js/_assets/css/components/_nw-download.scss",
 					"semi_transient": false,
 					"settings":
@@ -573,8 +534,8 @@
 						"selection":
 						[
 							[
-								137,
-								137
+								142,
+								142
 							]
 						],
 						"settings":
@@ -586,6 +547,121 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/waghcwb/server/nw.js/blog.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 95,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/waghcwb/server/nw.js/_includes/components/welcome.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 869,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								805,
+								805
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/waghcwb/server/nw.js/_includes/components/welcome-item.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 326,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								326,
+								326
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/waghcwb/server/nw.js/_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								536,
+								536
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -640,6 +716,18 @@
 		"selected_items":
 		[
 			[
+				"logo",
+				"nw.js/_includes/components/logo.html"
+			],
+			[
+				"header",
+				"nw.js/_includes/header.html"
+			],
+			[
+				"welcome",
+				"nw.js/_includes/components/welcome-item.html"
+			],
+			[
 				"sepa",
 				"nw.js/_includes/components/separator.html"
 			],
@@ -658,10 +746,6 @@
 			[
 				"head",
 				"nw.js/_includes/head.html"
-			],
-			[
-				"header",
-				"nw.js/_includes/components/header.html"
 			],
 			[
 				"script",
@@ -706,7 +790,7 @@
 		[
 			[
 				"",
-				"~/Documents/Sublime Text/weg-institucional.sublime-workspace"
+				"~/server/sublime-sync/projects/hering.sublime-project"
 			]
 		],
 		"width": 380.0
